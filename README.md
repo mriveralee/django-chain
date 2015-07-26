@@ -10,7 +10,7 @@ Django playground
 2. Test the installation by running `which python3` 
 
 ## Setup VirtualEnv
-1. Using `pip3` install the [https://virtualenv.pypa.io/en/latest/userguide.html](virtualenv) package
+1. Using `pip3` install the [virtualenv](https://virtualenv.pypa.io/en/latest/userguide.html) package
   `pip install virtualenv` 
 2. Create a directory for the virtual environment inside of your repository
   `mkdir ~/<repo_name>/env/`
