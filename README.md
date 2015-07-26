@@ -25,4 +25,4 @@ Django playground
 
 ## Install the Application
 1. Assuming the virtualenv is activate, run `pip install ~/<repo_name>` This will install django, mysql drivers, and everything necessary for this python application
-2. Test the application works by calling: `#TODO fill this in`
+2. Test the application works by calling: `python -c "import django; print(django.get_version())"`
