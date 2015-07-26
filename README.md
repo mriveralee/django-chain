@@ -24,5 +24,5 @@ Django playground
   To deactivate/undo the changes run `deactivate`
 
 ## Install the Application
-1. Assuming the virtualenv is activate, run `pip install` This will install django, mysql drivers, and everything necessary for this python application
+1. Assuming the virtualenv is activate, run `pip install ~/<repo_name>` This will install django, mysql drivers, and everything necessary for this python application
 2. Test the application works by calling: `#TODO fill this in`
