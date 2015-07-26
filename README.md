@@ -14,9 +14,11 @@ Django playground
   `pip install virtualenv` 
 2. Create a directory for the virtual environment inside of your repository
   `mkdir ~/<repo_name>/env/`
-3. Move to the directory of the virtual environment 
+4. Move to the directory for the virtual environment 
   `cd ~/<repo_name>/env/`
-4. Activate the virtual environment
+5. Make the virtual env by calling"
+   `virtualenv .`
+6. Activate the virtual environment
   `source bin/activate`
   Note: this changes your $PATH enviroment variable to be the virtualenv's `bin/` directory. 
   To deactivate/undo the changes run `deactivate`
